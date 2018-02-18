@@ -1,0 +1,5 @@
+To start server (IP,PORT):
+python server.py localhost 9200
+
+To start clients (IP,PORT,NAME):
+python client.py localhost 9200 Javi
